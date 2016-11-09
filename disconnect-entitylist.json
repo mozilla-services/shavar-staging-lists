@@ -920,16 +920,6 @@
             "dmtry.com"
         ]
     },
-    "AdOn Network": {
-        "properties": [
-            "adonnetwork.com",
-            "dashboardad.net"
-        ],
-        "resources": [
-            "adonnetwork.com",
-            "dashboardad.net"
-        ]
-    },
     "AdOnion": {
         "properties": [
             "adonion.com"
@@ -2009,14 +1999,6 @@
             "pulsemgr.com"
         ]
     },
-    "BuzzCity": {
-        "properties": [
-            "buzzcity.com"
-        ],
-        "resources": [
-            "buzzcity.com"
-        ]
-    },
     "BuzzParadise": {
         "properties": [
             "buzzparadise.com"
@@ -2372,7 +2354,12 @@
     "Complex Media": {
         "properties": [
             "complexmedianetwork.com",
-            "complex.com"
+            "complex.com",
+            "collider.com",
+            "solecollector.com",
+            "pigeonsandplanes.com",
+            "theridechannel.com",
+            "firstwefeast.com"
         ],
         "resources": [
             "complexmedianetwork.com",
@@ -2818,6 +2805,29 @@
     "eBay": {
         "properties": [
             "ebay.com",
+            "ebay.at",
+            "ebay.ba",
+            "ebay.be",
+            "ebay.com.au",
+            "ebay.ca",
+            "ebay.ch",
+            "ebay.cn",
+            "ebay.de",
+            "ebay.es",
+            "ebay.fr",
+            "ebay.com.hk",
+            "ebay.ie",
+            "ebay.in",
+            "ebay.it",
+            "ebay.co.jp",
+            "ebay.co.kr",
+            "ebay.com.my",
+            "ebay.nl",
+            "ebay.com.ph",
+            "ebay.pl",
+            "ebay.com.sg",
+            "ebay.com.tw",
+            "ebay.co.uk",
             "gopjn.com"
         ],
         "resources": [
@@ -3250,14 +3260,6 @@
         "resources": [
             "flite.com",
             "widgetserver.com"
-        ]
-    },
-    "Flurry": {
-        "properties": [
-            "flurry.com"
-        ],
-        "resources": [
-            "flurry.com"
         ]
     },
     "Flytxt": {
@@ -5697,14 +5699,12 @@
     },
     "QUISMA": {
         "properties": [
-            "i-behavior.com",
             "iaded.com",
             "quisma.com",
             "quismatch.com",
             "xmladed.com"
         ],
         "resources": [
-            "i-behavior.com",
             "iaded.com",
             "quisma.com",
             "quismatch.com",
@@ -9333,14 +9333,6 @@
         ],
         "resources": [
             "trumba.com"
-        ]
-    },
-    "Tumblr": {
-        "properties": [
-            "tumblr.com"
-        ],
-        "resources": [
-            "tumblr.com"
         ]
     },
     "Turn": {
